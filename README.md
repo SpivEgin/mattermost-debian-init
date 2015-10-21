@@ -6,3 +6,6 @@
 
 ## Using Systemd?
 1. At boot-time systemd will convert this init script into a service file for its own use.
+
+### Caveats
+1. Tested only on Debian Jessie with systemd
